@@ -26,7 +26,7 @@ export function TabsTrigger({
     <TabsPrimitive.Trigger
       data-slot="tabs-trigger"
       className={cn(
-        "group flex h-[3.8vh] shrink-0 items-center gap-[0.8vh] rounded-full border border-white/10 bg-black/60 pr-[0.6vh] pl-[1.4vh] text-[1.3vh] font-semibold whitespace-nowrap text-text-3 transition-[background-color,border-color,color,transform] duration-150 hover:border-white/25 hover:text-white active:[transform:scale(0.97)] data-[state=active]:border-tgi-green data-[state=active]:bg-tgi-green-10 data-[state=active]:text-white",
+        "group flex h-[3.8vh] shrink-0 items-center gap-[0.8vh] rounded-full border border-white/10 bg-black/60 pr-[0.6vh] pl-[1.4vh] text-[1.3vh] font-semibold whitespace-nowrap text-text-3 transition-[background-color,border-color,color,transform,translate,scale,rotate] duration-150 hover:border-white/25 hover:text-white active:scale-97 data-[state=active]:border-tgi-green data-[state=active]:bg-tgi-green-10 data-[state=active]:text-white",
         className,
       )}
       {...props}

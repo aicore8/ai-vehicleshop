@@ -74,7 +74,7 @@ export function Detail({
               aria-label={t("UI_COLOR")}
               onClick={() => onColor(c)}
               className={cn(
-                "h-[3.2vh] rounded-[0.6vh] border-[0.2vh] border-transparent [box-shadow:inset_0_0_0_1px_rgba(255,255,255,0.12)] transition-[border-color,transform] duration-150 hover:border-tgi-green active:[transform:scale(0.94)]",
+                "h-[3.2vh] rounded-[0.6vh] border-[0.2vh] border-transparent [box-shadow:inset_0_0_0_1px_rgba(255,255,255,0.12)] transition-[border-color,transform,translate,scale,rotate] duration-150 hover:border-tgi-green active:scale-94",
                 c === color && "border-dashed border-tgi-green",
               )}
               style={{ background: SWATCH[i] }}
