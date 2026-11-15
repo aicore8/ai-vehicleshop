@@ -15,7 +15,7 @@
     "ai-vehicles"
   ],
   "scripts": {
-    "lint": "oxlint --ignore-pattern \"dist/**\" --ignore-pattern \"web/postcss-*.js\"",
+    "lint": "oxlint --ignore-pattern \"dist/**\"",
     "format": "prettier --write .",
     "dev": "bun tsdown -- --watch",
     "build": "bun run --cwd web build && bun tsdown -- && aicore-client-errors dist/client.js",

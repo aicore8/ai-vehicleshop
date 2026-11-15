@@ -28,13 +28,10 @@
     "tailwind-merge": "^3.5.0"
   },
   "devDependencies": {
-    "@csstools/postcss-color-mix-function": "^4.0.2",
-    "@csstools/postcss-oklab-function": "^5.0.2",
     "@tailwindcss/vite": "^4.2.1",
     "@types/react": "^19.2.7",
     "@types/react-dom": "^19.2.3",
     "@vitejs/plugin-react": "^5.1.1",
-    "postcss-color-functional-notation": "^8.0.2",
     "tailwindcss": "^4.2.1",
     "typescript": "^6.0.3",
     "vite": "^7.3.1"
