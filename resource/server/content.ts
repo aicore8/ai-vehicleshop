@@ -1,4 +1,4 @@
-import { AdminPanel } from "@aifivem/lib/server";
+import { AdminPanel } from "@aicore8/lib/server";
 import { readSettings, readShop } from "common/shop";
 import { shopSchema } from "./schema";
 

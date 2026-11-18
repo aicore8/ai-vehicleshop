@@ -1,5 +1,5 @@
-import { registerExport } from "@aifivem/lib/server";
-import { RecordObjects } from "@aifivem/lib/shared";
+import { registerExport } from "@aicore8/lib/server";
+import { RecordObjects } from "@aicore8/lib/shared";
 import { readEntry, type CatalogEntry } from "common/shop";
 import { panel } from "./content";
 

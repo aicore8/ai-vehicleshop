@@ -1,4 +1,4 @@
-import { BLIP_STYLE_FIELDS } from "@aifivem/lib/shared";
+import { BLIP_STYLE_FIELDS } from "@aicore8/lib/shared";
 
 export const blip = {
   type: "object",

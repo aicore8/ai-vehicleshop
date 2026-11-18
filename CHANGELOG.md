@@ -1,62 +1,62 @@
 # Changelog
 
-## [0.1.6](https://github.com/aifivem/ai-vehicleshop/compare/v0.1.5...v0.1.6) (2026-11-15)
+## [0.1.6](https://github.com/aicore8/ai-vehicleshop/compare/v0.1.5...v0.1.6) (2026-11-15)
 
 
 ### Code Refactoring
 
-* **web:** individual translate / scale / rotate utilities instead of arbitrary transforms (CEF 144) ([e6263cc](https://github.com/aifivem/ai-vehicleshop/commit/e6263cc26c7374635de3f6854c1828f17d2ffcee))
+* **web:** individual translate / scale / rotate utilities instead of arbitrary transforms (CEF 144) ([e6263cc](https://github.com/aicore8/ai-vehicleshop/commit/e6263cc26c7374635de3f6854c1828f17d2ffcee))
 
-## [0.1.5](https://github.com/aifivem/ai-vehicleshop/compare/v0.1.4...v0.1.5) (2026-11-02)
+## [0.1.5](https://github.com/aicore8/ai-vehicleshop/compare/v0.1.4...v0.1.5) (2026-11-02)
 
 
 ### Documentation
 
-* install from the release zip ([44e917c](https://github.com/aifivem/ai-vehicleshop/commit/44e917c4c84bfbe2d54cf775163459a99c5454e2))
+* install from the release zip ([44e917c](https://github.com/aicore8/ai-vehicleshop/commit/44e917c4c84bfbe2d54cf775163459a99c5454e2))
 
 
 ### Miscellaneous Chores
 
-* build files are no longer in git, the release zip carries them ([b646a3e](https://github.com/aifivem/ai-vehicleshop/commit/b646a3e4e08a076e0c07317c56a1e3bb47ff69d0))
+* build files are no longer in git, the release zip carries them ([b646a3e](https://github.com/aicore8/ai-vehicleshop/commit/b646a3e4e08a076e0c07317c56a1e3bb47ff69d0))
 
-## [0.1.4](https://github.com/aifivem/ai-vehicleshop/compare/v0.1.3...v0.1.4) (2026-11-02)
+## [0.1.4](https://github.com/aicore8/ai-vehicleshop/compare/v0.1.3...v0.1.4) (2026-11-02)
 
 
 ### Bug Fixes
 
-* **build:** keep the web build in dist/ so release zips have the NUI ([b614fe1](https://github.com/aifivem/ai-vehicleshop/commit/b614fe1eae809e31c4992475346e99d018f69d2b))
+* **build:** keep the web build in dist/ so release zips have the NUI ([b614fe1](https://github.com/aicore8/ai-vehicleshop/commit/b614fe1eae809e31c4992475346e99d018f69d2b))
 
 
 ### Code Refactoring
 
-* import the shared packages from [@aifivem](https://github.com/aifivem) ([6264a41](https://github.com/aifivem/ai-vehicleshop/commit/6264a41d169c65f611998de6abbec8dd17ea908f))
+* import the shared packages from [@aicore8](https://github.com/aicore8) ([6264a41](https://github.com/aicore8/ai-vehicleshop/commit/6264a41d169c65f611998de6abbec8dd17ea908f))
 
-## [0.1.3](https://github.com/aifivem/ai-vehicleshop/compare/v0.1.2...v0.1.3) (2026-11-01)
+## [0.1.3](https://github.com/aicore8/ai-vehicleshop/compare/v0.1.2...v0.1.3) (2026-11-01)
 
 
 ### Code Refactoring
 
-* feature folders, side entries that only import, panel schema per tab ([485c97d](https://github.com/aifivem/ai-vehicleshop/commit/485c97dbdffab05dc814417a3337559aa792e754))
+* feature folders, side entries that only import, panel schema per tab ([485c97d](https://github.com/aicore8/ai-vehicleshop/commit/485c97dbdffab05dc814417a3337559aa792e754))
 
-## [0.1.2](https://github.com/aifivem/ai-vehicleshop/compare/v0.1.1...v0.1.2) (2026-10-31)
+## [0.1.2](https://github.com/aicore8/ai-vehicleshop/compare/v0.1.1...v0.1.2) (2026-10-31)
 
 
 ### Miscellaneous Chores
 
-* rebuild with the current lib ([66108d5](https://github.com/aifivem/ai-vehicleshop/commit/66108d5a0248840d7fa1e2980b2843f2d548e4a0))
+* rebuild with the current lib ([66108d5](https://github.com/aicore8/ai-vehicleshop/commit/66108d5a0248840d7fa1e2980b2843f2d548e4a0))
 
-## [0.1.1](https://github.com/aifivem/ai-vehicleshop/compare/v0.1.0...v0.1.1) (2026-10-31)
+## [0.1.1](https://github.com/aicore8/ai-vehicleshop/compare/v0.1.0...v0.1.1) (2026-10-31)
 
 
 ### Bug Fixes
 
-* fixed NUI layer (notifications on top, police alerts over the HUD) ([9136d23](https://github.com/aifivem/ai-vehicleshop/commit/9136d23ced6b93335f8e41134e79c46d451138c8))
+* fixed NUI layer (notifications on top, police alerts over the HUD) ([9136d23](https://github.com/aicore8/ai-vehicleshop/commit/9136d23ced6b93335f8e41134e79c46d451138c8))
 
 
 ### Miscellaneous Chores
 
-* rebuild with the current lib ([baef01e](https://github.com/aifivem/ai-vehicleshop/commit/baef01ec58a9e4a9ba60fe54499bc303cdadd2af))
-* rebuild with the current lib ([8105356](https://github.com/aifivem/ai-vehicleshop/commit/81053560ab29c6ad2da733d46f9f193aecb9b94b))
-* rebuild with the current lib ([a639aa2](https://github.com/aifivem/ai-vehicleshop/commit/a639aa2de54db92eafc0c8c363a53b52c66b2ce6))
-* rebuild with the current lib ([7ed2da8](https://github.com/aifivem/ai-vehicleshop/commit/7ed2da84e8892cf7de15f01b82907ab2b5bbe479))
-* rebuild with the current lib ([21afb8d](https://github.com/aifivem/ai-vehicleshop/commit/21afb8d9bcc22f4f2a524e4c5887962873ebaabb))
+* rebuild with the current lib ([baef01e](https://github.com/aicore8/ai-vehicleshop/commit/baef01ec58a9e4a9ba60fe54499bc303cdadd2af))
+* rebuild with the current lib ([8105356](https://github.com/aicore8/ai-vehicleshop/commit/81053560ab29c6ad2da733d46f9f193aecb9b94b))
+* rebuild with the current lib ([a639aa2](https://github.com/aicore8/ai-vehicleshop/commit/a639aa2de54db92eafc0c8c363a53b52c66b2ce6))
+* rebuild with the current lib ([7ed2da8](https://github.com/aicore8/ai-vehicleshop/commit/7ed2da84e8892cf7de15f01b82907ab2b5bbe479))
+* rebuild with the current lib ([21afb8d](https://github.com/aicore8/ai-vehicleshop/commit/21afb8d9bcc22f4f2a524e4c5887962873ebaabb))

@@ -7,7 +7,7 @@
   "author": {
     "name": "TGIANN"
   },
-  "repository": "github:aifivem/ai-vehicleshop",
+  "repository": "github:aicore8/ai-vehicleshop",
   "type": "module",
   "fxDependencies": [
     "/onesync",
@@ -23,11 +23,11 @@
     "webdev": "bun run --cwd web dev"
   },
   "dependencies": {
-    "@aifivem/lib": "workspace:*",
-    "@aifivem/shared": "workspace:*"
+    "@aicore8/lib": "workspace:*",
+    "@aicore8/shared": "workspace:*"
   },
   "devDependencies": {
-    "@aifivem/build": "workspace:*",
+    "@aicore8/build": "workspace:*",
     "@citizenfx/client": "latest",
     "@citizenfx/server": "latest",
     "@types/bun": "latest",
