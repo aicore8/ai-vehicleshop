@@ -1,6 +1,6 @@
 {
   "name": "ai-vehicleshop",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "private": true,
   "description": "Vehicle shops: catalog, preview, buying",
   "license": "GPL-3.0-only",
